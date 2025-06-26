@@ -21,7 +21,7 @@ To visualize and analyze municipal-level revenue sources in Massachusetts, enabl
 
 ## 💡 Features
 
-- Interactive Tableau dashboard with:
+- Interactive Power BI dashboard with:
   - **Revenue breakdown by category** (Taxes, State Aid, Service Charges, etc.)
   - **Top 10 municipalities by state aid dependency**
   - **Local vs. state revenue % comparison**
@@ -41,7 +41,7 @@ To visualize and analyze municipal-level revenue sources in Massachusetts, enabl
 
 ## 📁 File Structure
 
-- `dashboard.png` – Full screenshot of the final Tableau dashboard  
+- `Massachusetts Revenue.pdf` – Full file of the final Power BI dashboard  
 - `README.md` – Project documentation  
 - `data/` – Cleaned dataset used for analysis
 ---
