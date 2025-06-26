@@ -1,6 +1,6 @@
 # Massachusetts Municipal Revenue Dashboard (FY2024)
 
-This project explores FY2024 revenue data across 40+ municipalities in Massachusetts, focusing on source breakdown, state aid dependency, and overall financial resilience. Built using Tableau and Excel, the dashboard aims to uncover patterns in fiscal structure and highlight the balance between local vs. state revenue across towns.
+This project explores FY2024 revenue data across 40+ municipalities in Massachusetts, focusing on source breakdown, state aid dependency, and overall financial resilience. Built using Power BI and Excel, the dashboard aims to uncover patterns in fiscal structure and highlight the balance between local vs. state revenue across towns.
 
 ---
 
